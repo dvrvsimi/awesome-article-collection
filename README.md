@@ -23,6 +23,7 @@ Don't know what to write about? or How to start? Generate your next article idea
 ## Table of Contents
 
 - [Artificial Intelligence](#artificial-intelligence)
+- [Automation](#automation)
 - [Blockchain](#blockchain)
 - [Cloud Engineering](#cloud-engineering)
 - [Cyber Security](#cyber-security)
@@ -57,6 +58,20 @@ Don't know what to write about? or How to start? Generate your next article idea
 | Article Title | Author | Article | Article Date | Week Number |
 | ------------- | ------ | ------- | ------------ | ----------- |
 | [Crowdsource: Ashimi’s Guide To Improving Google’s AI and Gain Incentives.](https://ashimi.hashnode.dev/crowdsource-ashimis-guide-to-improving-googles-ai-and-gain-incentives)          | [Ashimi.0x](https://hashnode.com/@ashimi)             | [Link](https://ashimi.hashnode.dev/crowdsource-ashimis-guide-to-improving-googles-ai-and-gain-incentives)        | 2023-01-09   | 1         |
+
+---
+
+## Automation
+
+| Article Title | Author | Article | Article Date | Week Number |
+| ------------- | ------ | ------- | ------------ | ----------- |
+| [The Anatomy of a Programmable Logic Controller: Understanding its Design and Architecture.](https://medium.com/@daraakojede01/the-anatomy-of-a-programmable-logic-controller-understanding-its-design-and-architecture-c4a58e98be)      | [Olorundara Akojede](https://medium.com/@daraakojede01)       | [Link](https://medium.com/@daraakojede01/the-anatomy-of-a-programmable-logic-controller-understanding-its-design-and-architecture-c4a58e98be)         | 2023-02-02             |     4        |
+
+| Article Title | Author | Article | Article Date | Week Number |
+| ------------- | ------ | ------- | ------------ | ----------- |
+| [Programming a PLC: Working Principle and How to Write Ladder Diagrams With GX Developer.](https://medium.com/@daraakojede01/programming-a-plc-working-principle-and-how-to-write-ladder-diagrams-with-gx-developer-37b1c1da6e54)      | [Olorundara Akojede](https://medium.com/@daraakojede01)       | [Link](https://medium.com/@daraakojede01/programming-a-plc-working-principle-and-how-to-write-ladder-diagrams-with-gx-developer-37b1c1da6e54)         | 2023-03-02             |     4        |
+
+---
 
 ## Blockchain
 
